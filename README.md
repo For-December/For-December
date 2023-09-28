@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![forDece's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=For-December&show_icons=true&count_private=true&theme=gotham)
 
